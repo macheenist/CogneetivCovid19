@@ -1,2 +1,2 @@
 # CogneetivCovid19
-Covid 19 Voice Dashaboard Risk Assessment 
+Covid 19 Voice Dashboard Risk Assessment 
